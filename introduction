@@ -1,0 +1,8 @@
+# Basic Python code to introduce yourself
+
+name = "Hitesh Kothari"
+age = 69  # Replace with your age
+location = "Blenheim, New ZeaLAND"
+
+intro = f"Hello, my name is {name}. I am {age} years old and I live in {location}."
+print(intro)
